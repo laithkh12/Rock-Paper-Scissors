@@ -90,63 +90,63 @@ python rock_paper_scissors.py
 ## 🎮 Example Output
   Scenario 1: User Wins
   ```bash
-  What do you choose? 0 -> rock, 1 -> paper, 2 -> scissors
-0
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-
-Computer chose: 2
-     _______
----'   ____)____
-          ______)
-       __________)
-      (____)
----.__(___) 
-
-You Win.
+    What do you choose? 0 -> rock, 1 -> paper, 2 -> scissors
+    0
+        _______
+    ---'   ____)
+          (_____)
+          (_____)
+          (____)
+    ---.__(___)
+  
+  Computer chose: 2
+         _______
+    ---'   ____)____
+              ______)
+           __________)
+          (____)
+    ---.__(___) 
+  
+  You Win.
 ```
 Scenario 2: User Loses
 ```bash
-What do you choose? 0 -> rock, 1 -> paper, 2 -> scissors
-1
-     _______
----'   ____)____
-          ______)
-          _______)
-         _______)
----.__________)  
-Computer chose: 2
-     _______
----'   ____)____
-          ______)
-       __________)
-      (____)
----.__(___)  
-You Lose.
+  What do you choose? 0 -> rock, 1 -> paper, 2 -> scissors
+  1
+         _______
+    ---'   ____)____
+              ______)
+              _______)
+             _______)
+    ---.__________)  
+  Computer chose: 2
+         _______
+    ---'   ____)____
+              ______)
+           __________)
+          (____)
+    ---.__(___)  
+  You Lose.
 ```
 Scenario 3: It's a Tie
 ```bash
-What do you choose? 0 -> rock, 1 -> paper, 2 -> scissors
-2
-     _______
----'   ____)____
-          ______)
-       __________)
-      (____)
----.__(___)
-
-Computer chose: 2
-     _______
----'   ____)____
-          ______)
-       __________)
-      (____)
----.__(___)
-It's a tie.
+  What do you choose? 0 -> rock, 1 -> paper, 2 -> scissors
+  2
+         _______
+    ---'   ____)____
+              ______)
+           __________)
+          (____)
+    ---.__(___)
+  
+  Computer chose: 2
+         _______
+    ---'   ____)____
+              ______)
+           __________)
+          (____)
+    ---.__(___)
+  It's a tie.
 ```
 
 ## ⚙️ Customization  
